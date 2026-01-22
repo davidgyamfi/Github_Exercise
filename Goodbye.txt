@@ -1,0 +1,6 @@
+echo "Goodbye!
+This file exists only in the new branch." > Goodbye.txt
+
+git add Goodbye.txt
+git commit -m "Add Goodbye.txt in new branch"
+git push origin new
