@@ -1,0 +1,7 @@
+echo "Hello GitHub!
+This is my first commit.
+Learning basic Git workflow." > Hello.txt
+
+git add Hello.txt
+git commit -m "Add Hello.txt"
+git push origin main
