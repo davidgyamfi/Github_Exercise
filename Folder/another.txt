@@ -5,3 +5,5 @@ Practicing Git commits." > Folder/another.txt
 git add Folder/another.txt
 git commit -m "Add Folder and another.txt"
 git push origin main
+
+git rm -r
